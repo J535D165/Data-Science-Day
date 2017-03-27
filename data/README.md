@@ -10,7 +10,8 @@ in a record, it's not him or her...
 ## Mortality register dataset
 
 The file ``mortality_register.csv`` contains (fake) data from a mortality
-register. Each record represents a deceased. The data includes the following
+register. The file contains data about hundred deceased people. Each record
+contains the information about one of them. The data includes the following
 columns:
 
 | Variable/Column| Description                                  |
@@ -37,11 +38,11 @@ sex, The sex of the deceased
 ## Medical diagnosis records
 
 The file ``hospital_data.csv`` contains information about diagnoses and
-treatments in a bunch of hospitals. This is done with the 10th revision of the
-International Statistical Classification of Diseases and Related Health
-Problems (ICD-10). Each record represents one diagnosis and is assigned to a
-patient. Each patient has a unique identifier. The following variables are
-included:
+treatments in a bunch of hospitals. The diagnoses are classified with the 10th
+revision of the International Statistical Classification of Diseases and
+Related Health Problems (ICD-10). The file contains 800 records. Each record
+represents one diagnosis and is assigned to a patient by using a unique
+personal indentifier. The following variables are included:
 
 | variable   | description                                  |
 |------------|----------------------------------------------|
