@@ -44,11 +44,11 @@ Related Health Problems (ICD-10). The file contains 800 records. Each record
 represents one diagnosis and is assigned to a patient by using a unique
 personal indentifier. The following variables are included:
 
-| variable   | description                                  |
-|------------|----------------------------------------------|
-| patient_id | A unique personal identifier                 |
-| ICD10      | The International Classification of Diseases |
-| datetime   | The date and time of the diagnosis           |
+| Variable/Column| Description                                  |
+|----------------|----------------------------------------------|
+| patient_id     | A unique personal identifier                 |
+| ICD10          | The International Classification of Diseases |
+| datetime       | The date and time of the diagnosis           |
 
 <!-- 
 Variable, Description
