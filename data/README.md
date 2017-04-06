@@ -11,7 +11,7 @@ in a record, it's not him or her...
 
 The file ``mortality_register.csv`` contains (fake) data from a mortality
 register. The file contains data about hundred deceased people. Each record
-contains the information about one of them. The data includes the following
+contains the information of one of them. The data includes the following
 columns:
 
 | Variable/Column| Description                                  |
