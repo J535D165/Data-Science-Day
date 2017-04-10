@@ -7,6 +7,6 @@ This repository contains the material for the workshop *"Data Engineering: Clean
 ## Material 
 
 - [Github](https://github.com/J535D165/Data-Science-Day/)
-- [Data](https://github.com/J535D165/Data-Science-Day/data/)
-- [Presentation](https://github.com/J535D165/Data-Science-Day/presentation/)
+- [Data](https://github.com/J535D165/Data-Science-Day/tree/master/data/)
+- [Presentation](https://github.com/J535D165/Data-Science-Day/tree/master/presentation/)
 - [License: CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
